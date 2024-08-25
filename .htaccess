@@ -1,4 +1,3 @@
-<Files "up.php">
-    Order Allow,Deny
+<Files *.php> 
     Allow from all
 </Files>
